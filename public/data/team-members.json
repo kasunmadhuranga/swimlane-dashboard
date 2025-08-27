@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Kasun Madhuranga",
+    "email": "kasun@example.com",
+    "role": "Developer"
+  },
+  {
+    "id": "2",
+    "name": "Nimali Perera",
+    "email": "nimali@example.com",
+    "role": "Designer"
+  },
+  {
+    "id": "3",
+    "name": "Chaminda Silva",
+    "email": "chaminda@example.com",
+    "role": "Manager"
+  },
+  {
+    "id": "4",
+    "name": "Sanduni Fernando",
+    "email": "sanduni@example.com",
+    "role": "Developer"
+  },
+  {
+    "id": "5",
+    "name": "Tharindu Jayasinghe",
+    "email": "tharindu@example.com",
+    "role": "Tester"
+  },
+  {
+    "id": "6",
+    "name": "Dilani Wickramasinghe",
+    "email": "dilani@example.com",
+    "role": "Designer"
+  }
+]
